@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>@yield('title', '伊万凯旋') - 自学之路</title>
+    <title>@yield('title', '伊万凯旋') - yiwankaixuan's webpage</title>
     <link rel="stylesheet" href="/css/app.css">
   </head>
   <body>
@@ -14,5 +14,7 @@
         @include('layouts._footer')
       </div>
     </div>
+
+    <script src="/js/app.js"></script>
   </body>
 </html>

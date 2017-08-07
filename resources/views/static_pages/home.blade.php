@@ -2,10 +2,13 @@
 
 @section('content')
   <div class="jumbotron">
-    <h1>Fucking guys！</h1>
+    <h1>Welcome, guys！</h1>
     <p class="lead">
-      你现在所看到的是 <a href="http://weibo.com/lanjiangyue?is_all=1">伊万凯旋PHP自学之路</a>主页。
+      你现在所看到的是伊万凯旋的个人主页
     </p>
+    <!-- <p class="lead">
+      你现在所看到的是 <a href="http://weibo.com/lanjiangyue?is_all=1">伊万凯旋PHP自学之路</a>主页。
+    </p> -->
     <p>
       一切，将从这里开始。
     </p>
